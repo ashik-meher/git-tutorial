@@ -1,0 +1,17 @@
+{
+    "name": "ashik-meher/els",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AshikMeher\\Els\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ashik-meher",
+            "email": "mobinashikmeher@gmail.com"
+        }
+    ],
+    "require": {}
+}
